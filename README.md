@@ -12,7 +12,7 @@
 * [Simple Learning Pro](https://www.youtube.com/@Simplelearningpro/)
 * [3Blue1Brown](https://www.youtube.com/@3blue1brown)
 * [zedstatistics](https://www.youtube.com/@zedstatistics)
-* [IIT-M - Statistics](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZoOybiNj--teGePoNZNO2C)
+* [IIT-M Statistics](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZoOybiNj--teGePoNZNO2C)
 * [jbstatistics](https://www.youtube.com/@jbstatistics)
 
 
