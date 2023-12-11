@@ -1,6 +1,9 @@
 # Foundations of Data Science
 
-## Probability Statistics Tutorials YouTube Links
+## Probability Statistics Tutorials 
+
+
+### YouTube Links
 
 * [Quantitative Specialists](https://www.youtube.com/@QuantitativeSpecialists)
 * [Simple Learning Pro](https://www.youtube.com/@Simplelearningpro/)
