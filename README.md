@@ -1,1 +1,1 @@
-# Probability-Statistics
+# Foundations of Data Science
