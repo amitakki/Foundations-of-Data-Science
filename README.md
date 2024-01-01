@@ -14,6 +14,6 @@
 * [zedstatistics](https://www.youtube.com/@zedstatistics)
 * [IIT-M Statistics](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZoOybiNj--teGePoNZNO2C)
 * [jbstatistics](https://www.youtube.com/@jbstatistics)
-* [Data Science for all Ritvik Math](https://www.youtube.com/@ritvikmath)
+* [Data Science for all](https://www.youtube.com/@ritvikmath)
 
 
