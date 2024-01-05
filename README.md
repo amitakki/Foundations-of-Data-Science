@@ -6,8 +6,8 @@
 [PadhAI Courses - One Fourth Labs](https://padhai.onefourthlabs.in/courses/data-science)
 
 ### Udemy Courses
-* [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course)
-* [Data Analysis with Pandas and Python](https://www.udemy.com/course/data-analysis-with-pandas/)
+* Python - [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course)
+* Numpy and Pandas - [Data Analysis with Pandas and Python](https://www.udemy.com/course/data-analysis-with-pandas/)
 
 ### YouTube Tutorial Channels
 
