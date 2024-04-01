@@ -7,10 +7,10 @@
 
 #### YouTube Tutorial Channels
 
+* [IIT-M Statistics Course](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZoOybiNj--teGePoNZNO2C)
 * [Quantitative Specialists](https://www.youtube.com/@QuantitativeSpecialists)
 * [Simple Learning Pro](https://www.youtube.com/@Simplelearningpro/)
 * [zedstatistics](https://www.youtube.com/@zedstatistics)
-* [IIT-M Statistics](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZoOybiNj--teGePoNZNO2C)
 * [jbstatistics](https://www.youtube.com/@jbstatistics)
 * [Data Science for all](https://www.youtube.com/@ritvikmath)
 * [Mastering Probability and Statistics in Python - AI Sciences](https://www.youtube.com/playlist?list=PLVgEzPHodXi1wT9OK8B_W6Hs8Xc-gaG6N)
